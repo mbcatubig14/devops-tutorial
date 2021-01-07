@@ -14,7 +14,7 @@ deploy:
   provider: elasticbeanstalk
   region: 'eu-west-2'
   app: 'devops-tutorial'
-  env: 'DevopsTutorial-env'
+  env: 'DevopsTutorial-env-1'
   bucket_name: 'elasticbeanstalk-eu-west-2-732232335702'
   bucket_path: 'devops-tutorial'
   on:
